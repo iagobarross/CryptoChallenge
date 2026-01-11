@@ -1,4 +1,4 @@
-# Desafio Backend - Criptografia (API Transparente)
+# Desafio Backend - Criptografia
 
 Este projeto é uma solução para o desafio de **Criptografia** do repositório  
 [Backend Br Challenges](https://github.com/backend-br/desafios/blob/master/cryptography/PROBLEM.md).
